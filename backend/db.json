@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "name": "Nathan",
+      "email": "nathanepd2@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Nathan Cerqueira Santos",
+      "email": "sky_nathan@hotmail.com",
+      "id": 2
+    }
+  ]
+}
